@@ -1,2 +1,8 @@
-MainPackage=C:\Users\Sâm\Documents\Visual Studio 2015\Projects\Blueflap\Blueflap\bin\x86\Release\Blueflap_5.2016.810.0_x86.appx
-SymbolPackage=C:\Users\Sâm\Documents\Visual Studio 2015\Projects\Blueflap\Blueflap\AppPackages\Blueflap_5.2016.810.0_Test\Blueflap_5.2016.810.0_x86.appxsym
+MainPackage=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_x86.appx
+SymbolPackage=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\obj\x86\Release\Symbols\Blueflap_5.2016.811.0_x86.appxsym
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-de.appx
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-es.appx
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-fr.appx
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-hu.appx
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-pt.appx
+ResourcePack=C:\Users\nico\source\repos\HeyNic37\Blueflap-UWP\Blueflap\bin\x86\Release\Blueflap_5.2016.811.0_language-zh-hans.appx
